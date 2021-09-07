@@ -1,9 +1,5 @@
 # Monte_Carlo_Algorithms
 
-The implementations in this repository involve:
+This project involves implementations for Kalman Filter, Sequence Importance Sampling (SIS) and Sequence Importance Resampling (SIR) on autoregressice and lostice regression problems.
 
-i) KF, SIS and SIR on autoregressive problem
-
-ii) EKF, SIS and SIR on logistic regression problem
-
-KF: Kalman Filter, EKF: Extended Kalman Filter, SIS: Sequential Importance Sampling, SIR: Sequential Importance Resampling (also known as Particle Filter)
+*Sequential Importance Resampling is also known as Particle Filter
